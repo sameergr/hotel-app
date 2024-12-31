@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3ce14224-1da6-4e79-9d2c-bb92fe7ba44a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/test-angular-app2000",
+    "appService.deploySubpath": "dist\\hotel-app"
+}
